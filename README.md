@@ -11,4 +11,4 @@
 ![TESTRAIL](https://img.shields.io/badge/-TESTRAIL-important?style=for-the-badge&logo=TESTRAIL&logoColor=blue)
 
 ### Follow me
-[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-important?style=for-the-badge&logo=LINKEDIN&logoColor=blue) ] (https://www.linkedin.com/in/tatsiana-kavalchuk7)
+[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-important?style=for-the-badge&logo=LINKEDIN&logoColor=blue)](https://www.linkedin.com/in/tatsiana-kavalchuk7) 
