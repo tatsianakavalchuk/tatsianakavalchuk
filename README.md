@@ -9,8 +9,8 @@
 ![JIRA](https://img.shields.io/badge/-JIRA-important?style=for-the-badge&logo=JIRA&logoColor=blue)
 ![GITHUB](https://img.shields.io/badge/-GITHUB-important?style=for-the-badge&logo=GITHUB&logoColor=blue)
 ![TESTRAIL](https://img.shields.io/badge/-TESTRAIL-important?style=for-the-badge&logo=TESTRAIL&logoColor=blue)
-![BASH](https://img.shields.io/badge/-BASH-important?style=for-the-badge&logo=TESTRAIL&logoColor=blue)
-![UML](https://img.shields.io/badge/-BASH-important?style=for-the-badge&logo=TESTRAIL&logoColor=blue)
+![BASH](https://img.shields.io/badge/-BASH-important?style=for-the-badge&logo=BASH&logoColor=blue)
+![UML](https://img.shields.io/badge/-UML-important?style=for-the-badge&logo=UML&logoColor=blue)
 
 ### Follow me
 [![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-important?style=for-the-badge&logo=LINKEDIN&logoColor=blue)](https://www.linkedin.com/in/tatsiana-kavalchuk7) 
