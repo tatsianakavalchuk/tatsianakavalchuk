@@ -1,4 +1,4 @@
-![Header]
+![Header](https://github.com/tatsianakavalchuk/tatsianakavalchuk/blob/main/assets/Photoforgithub.png)
 
 ## Hi! I'm a  System Analyst. Willingness to learn and grow as a professional, to work in a fast-paced environment.
 
